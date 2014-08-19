@@ -1,0 +1,73 @@
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Release\myDatabase.sdf
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.pdb
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Form1.resources
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Properties.Resources.resources
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Release\myDatabase.sdf
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Properties.Resources.resources
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.write.1.tlog
+H:\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+H:\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+H:\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb
+H:\PizzaMilano\PizzaMilano\bin\Release\myDatabase.sdf
+H:\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe
+H:\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.pdb
+H:\PizzaMilano\PizzaMilano\obj\x86\Release\ResolveAssemblyReference.cache
+H:\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Form1.resources
+H:\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Properties.Resources.resources
+H:\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.read.1.tlog
+H:\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Release\myDatabase.sdf
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Properties.Resources.resources
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Release\myDatabase.sdf
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.exe
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Release\PizzaMilano.pdb
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Form1.resources
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.Properties.Resources.resources
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Release\myDatabase.sdf
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Release\PizzaMilano.exe
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.passwordForm.resources
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.Properties.Resources.resources
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\bin\Release\PizzaMilano.exe.config
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.exe
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Release\PizzaMilano.pdb

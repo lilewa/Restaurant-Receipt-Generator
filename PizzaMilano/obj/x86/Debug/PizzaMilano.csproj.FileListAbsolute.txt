@@ -1,0 +1,102 @@
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Debug\myDatabase.sdf
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+c:\users\amind\documents\visual studio 2010\Projects\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Debug\myDatabase.sdf
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amin\Desktop\aminD2\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+E:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+E:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+E:\PizzaMilano\PizzaMilano\bin\Debug\myDatabase.sdf
+E:\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe
+E:\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+E:\PizzaMilano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+E:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+E:\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+H:\PizzaMilano\PizzaMilano\bin\Debug\myDatabase.sdf
+H:\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe
+H:\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+H:\PizzaMilano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+H:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+H:\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+H:\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Debug\myDatabase.sdf
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amin\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Debug\myDatabase.sdf
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.exe
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+C:\Documents and Settings\pv\Desktop\PizzaMilano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Debug\myDatabase.sdf
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.exe
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.passwordForm.resources
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.exe.manifest
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.application
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe.manifest
+C:\Users\amin\Desktop\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.application
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\bin\Debug\myDatabase.sdf
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.exe
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.pdb
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.passwordForm.resources
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aminD\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\bin\Debug\PizzaMilano.exe.config
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.exe
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.pdb
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.Form1.resources
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.passwordForm.resources
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.Properties.Resources.resources
+C:\Users\amin\Desktop\Application\CV\Pizza Milano\PizzaMilano\obj\x86\Debug\PizzaMilano.csproj.GenerateResource.Cache
